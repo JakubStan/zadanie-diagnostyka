@@ -1,0 +1,80 @@
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'diagnostyka-zadanie': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/diagnostyka-zadanie
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'diagnostyka-zadanie': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/diagnostyka-zadanie
+Processed slug: form with data: Name: twoje imie, Email: mail@gmail.com, Description: wiadomość
+Processed slug: nowa-strona with data: Name: twoje imie, Email: mail@gmail.com, Description: wiadomość
+Processed slug: nowa-strona with data: Name: sss, Email: ss@gmail.com, Description: ddd
+Processed slug: form with data: Name: sss, Email: ss@gmail.com, Description: sss
+Generated endpoint for slug 'diagnostyka-zadanie': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/diagnostyka-zadanie
+Generated endpoint for slug 'diagnostyka-zadanie': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/diagnostyka-zadanie
+Processed slug: form with data: Name: FFFFF, Email: FFF@gamil.com, Description: sasdasds
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Processed slug: nowa-strona with data: Name: sss, Email: ss@gmail.com, Description: ddd
+Generated endpoint for slug 'diagnostyka-zadanie': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/diagnostyka-zadanie
+Processed slug: form with data: Name: eeee, Email: eee@gmail.com, Description: ddd
+Processed slug: form with data: Name: ffffffff, Email: f@gmail.comsd, Description: sadff
+Processed slug: form with data: Name: vvvvvvvvv, Email: vvvvvvv@gmail.com, Description: fggffgfgd
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Processed slug: nowa-strona with data: Name: sssfff, Email: ss@gmail.com, Description: ddd
+Processed slug: form with data: Name: edd, Email: e@gmail.com, Description: ddd
+Generated endpoint for slug 'diagnostyka-zadanie': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/diagnostyka-zadanie
+Generated endpoint for slug 'diagnostyka-zadanie': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/diagnostyka-zadanie
+Processed slug: form with data: Name: eee, Email: s@gmail.com, Description: dddd
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Processed slug: nowa-strona with data: Name: sssfff, Email: ss@gmail.com, Description: ddd
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'diagnostyka-zadanie': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/diagnostyka-zadanie
+Processed slug: form with data: Name: sse, Email: ss@gmail.com, Description: ddd
+Processed slug: nowa-strona with data: Name: sss, Email: s@gmail.com, Description: ddd
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'diagnostyka-zadanie': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/diagnostyka-zadanie
+Generated endpoint for slug 'diagnostyka-zadanie': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/diagnostyka-zadanie
+Generated endpoint for slug 'diagnostyka-zadanie': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/diagnostyka-zadanie
+Processed slug: diagnostyka-zadanie with data: Name: wdd, Email: ww@gmail.com, Description: www
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Processed slug: nowa-strona with data: Name: ddd, Email: dd@gmail.com, Description: ddd
+Generated endpoint for slug 'diagnostyka-zadanie': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/diagnostyka-zadanie
+Generated endpoint for slug 'diagnostyka-zadanie': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/diagnostyka-zadanie
+Generated endpoint for slug 'diagnostyka-zadanie': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/diagnostyka-zadanie
+Processed slug: diagnostyka-zadanie with data: Name: ssa, Email: s@gmai.com, Description: ff
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'post.php': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/post.php
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'diagnostyka-zadanie': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/diagnostyka-zadanie
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Generated endpoint for slug 'nowa-strona': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/nowa-strona
+Processed slug: nowa-strona with data: Name: sss, Email: s@gmail.com, Description: d
+Generated endpoint for slug 'diagnostyka-zadanie': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/diagnostyka-zadanie
+Generated endpoint for slug 'diagnostyka-zadanie': http://localhost/diagnostyka-zadanie/wp-json/myplugin/v1/diagnostyka-zadanie
+Processed slug: diagnostyka-zadanie with data: Name: wee, Email: ww@gmail.com, Description: ww

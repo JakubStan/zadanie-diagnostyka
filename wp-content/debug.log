@@ -1,0 +1,260 @@
+[03-Dec-2024 12:02:21 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 12:19:53 UTC] PHP Deprecated:  Funkcja wp_update_https_detection_errors jest <strong>przestarzała</strong> od wersji 6.4.0 i nie ma alternatywy. in C:\xampp\htdocs\diagnostyka-zadanie\wp-includes\functions.php on line 6114
+[03-Dec-2024 12:20:00 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 12:20:17 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 12:20:33 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 12:41:54 UTC] PHP Fatal error:  Uncaught TypeError: process_custom_form_submission(): Argument #1 ($request) must be of type WP_REST_Request, string given, called in C:\xampp\htdocs\diagnostyka-zadanie\wp-includes\class-wp-hook.php on line 324 and defined in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php:77
+Stack trace:
+#0 C:\xampp\htdocs\diagnostyka-zadanie\wp-includes\class-wp-hook.php(324): process_custom_form_submission('')
+#1 C:\xampp\htdocs\diagnostyka-zadanie\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\diagnostyka-zadanie\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\diagnostyka-zadanie\wp-admin\admin-ajax.php(192): do_action('wp_ajax_process...')
+#4 {main}
+  thrown in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 77
+[03-Dec-2024 12:41:56 UTC] PHP Fatal error:  Uncaught TypeError: process_custom_form_submission(): Argument #1 ($request) must be of type WP_REST_Request, string given, called in C:\xampp\htdocs\diagnostyka-zadanie\wp-includes\class-wp-hook.php on line 324 and defined in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php:77
+Stack trace:
+#0 C:\xampp\htdocs\diagnostyka-zadanie\wp-includes\class-wp-hook.php(324): process_custom_form_submission('')
+#1 C:\xampp\htdocs\diagnostyka-zadanie\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\diagnostyka-zadanie\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\diagnostyka-zadanie\wp-admin\admin-ajax.php(192): do_action('wp_ajax_process...')
+#4 {main}
+  thrown in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 77
+[03-Dec-2024 12:42:06 UTC] PHP Fatal error:  Uncaught TypeError: process_custom_form_submission(): Argument #1 ($request) must be of type WP_REST_Request, string given, called in C:\xampp\htdocs\diagnostyka-zadanie\wp-includes\class-wp-hook.php on line 324 and defined in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php:77
+Stack trace:
+#0 C:\xampp\htdocs\diagnostyka-zadanie\wp-includes\class-wp-hook.php(324): process_custom_form_submission('')
+#1 C:\xampp\htdocs\diagnostyka-zadanie\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\diagnostyka-zadanie\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\diagnostyka-zadanie\wp-admin\admin-ajax.php(192): do_action('wp_ajax_process...')
+#4 {main}
+  thrown in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 77
+[03-Dec-2024 12:53:08 UTC] PHP Parse error:  Unclosed '{' on line 4 in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 112
+[03-Dec-2024 12:54:38 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 12:55:07 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 12:56:33 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 12:56:44 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 12:56:56 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 12:56:58 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 12:58:24 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:04:39 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:04:39 UTC] Dane z formularza: Array
+(
+    [action] => submit_form
+    [nonce] => 3f7b1ee8c1
+    [form_data] => Array
+        (
+            [name] => wwww
+            [email] => www@gmail.com
+            [description] => wqqs qwd 
+        )
+
+)
+
+[03-Dec-2024 13:04:39 UTC] Brak wymaganych danych!
+[03-Dec-2024 13:05:23 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:05:23 UTC] Dane z formularza: Array
+(
+    [action] => submit_form
+    [nonce] => 3f7b1ee8c1
+    [form_data] => Array
+        (
+            [name] => sadsa
+            [email] => sasa@gmail.com
+            [description] => saCSA SCA SCA
+        )
+
+)
+
+[03-Dec-2024 13:05:23 UTC] Brak wymaganych danych!
+[03-Dec-2024 13:06:20 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:06:20 UTC] Dane z formularza: Array
+(
+    [action] => submit_form
+    [nonce] => 3f7b1ee8c1
+    [form_data] => Array
+        (
+            [name] => WWWW
+            [email] => aa@gmail.com
+            [description] => wsxc dwaSD D 
+        )
+
+)
+
+[03-Dec-2024 13:06:20 UTC] Brak wymaganych danych!
+[03-Dec-2024 13:10:45 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:10:45 UTC] Dane z formularza: 
+[03-Dec-2024 13:10:45 UTC] Brak wymaganych danych!
+[03-Dec-2024 13:11:51 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 76
+[03-Dec-2024 13:12:13 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:13:30 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:13:30 UTC] Dane z formularza: Array
+(
+    [name] => fdadss
+    [email] => dsdsf@gmail.com
+    [description] => dsf fdsaasdafdsA FDS
+)
+
+[03-Dec-2024 13:13:34 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:13:34 UTC] Dane z formularza: Array
+(
+    [name] => fdadss
+    [email] => dsdsf@gmail.com
+    [description] => dsf fdsaasdafdsA FDS
+)
+
+[03-Dec-2024 13:14:22 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:17:41 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:17:42 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:17:45 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:17:46 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:17:46 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:17:46 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:17:46 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:17:47 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:17:49 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:17:55 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:19:07 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:20:03 UTC] Automatic updates starting...
+[03-Dec-2024 13:20:04 UTC] Automatic updates complete.
+[03-Dec-2024 13:20:10 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:25:28 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:25:28 UTC] Dane z formularza: Array
+(
+    [action] => submit_form
+    [nonce] => 3f7b1ee8c1
+    [form_data] => Array
+        (
+            [name] => ass
+            [email] => mai@gmail.com
+            [description] => dadsc ads 
+        )
+
+)
+
+[03-Dec-2024 13:28:27 UTC] PHP Parse error:  Unclosed '{' on line 4 in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 115
+[03-Dec-2024 13:29:21 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:50:28 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:52:35 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:53:05 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:54:38 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:54:57 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:55:04 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:55:10 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:55:16 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:56:48 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:57:34 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:58:08 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:58:25 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 13:59:46 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:01:19 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:01:23 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:01:47 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:01:48 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:02:10 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:02:11 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:03:15 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:03:27 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:03:36 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:03:51 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:03:53 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:04:00 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:04:06 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:06:15 UTC] Rejestracja nowego endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:06:26 UTC] Rejestracja nowego endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:07:09 UTC] Rejestracja nowego endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:07:10 UTC] Rejestracja nowego endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:07:23 UTC] Rejestracja nowego endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:07:38 UTC] Rejestracja nowego endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:08:07 UTC] Rejestracja nowego endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:08:28 UTC] Rejestracja nowego endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:09:25 UTC] Rejestracja nowego endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:10:31 UTC] Rejestracja nowego endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:10:33 UTC] Rejestracja nowego endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:15:56 UTC] Rejestracja nowego endpointu custom/v1/submit
+[03-Dec-2024 14:16:12 UTC] Rejestracja nowego endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:16:27 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:16:39 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:17:17 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:17:28 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:24:07 UTC] PHP Parse error:  Unmatched '}' in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 70
+[03-Dec-2024 14:24:42 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:33:08 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:35:23 UTC] Rejestracja endpointu custom-api/v1/submit-form
+[03-Dec-2024 14:35:23 UTC] Nonce jest niepoprawny
+[03-Dec-2024 14:42:43 UTC] PHP Parse error:  Unmatched '}' in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 58
+[03-Dec-2024 14:47:02 UTC] Nonce jest niepoprawny
+[03-Dec-2024 14:47:02 UTC] Otrzymane dane: Array
+(
+    [custom_form_nonce_field] => 3f7b1ee8c1
+    [_wp_http_referer] => /diagnostyka-zadanie/custom-api/v1/submit-form
+    [name] => sssssssss
+    [email] => ss@gmail.com
+    [description] => assaasdds a
+    [nonce] => 3f7b1ee8c1
+)
+
+[03-Dec-2024 14:50:49 UTC] Nonce jest poprawny
+[03-Dec-2024 14:50:49 UTC] Otrzymane dane: Array
+(
+    [custom_form_nonce_field] => 6703d7eba9
+    [_wp_http_referer] => /diagnostyka-zadanie/
+    [name] => wwww
+    [email] => www@gmil.com
+    [description] => wwwwwwwwww
+    [nonce] => 6703d7eba9
+)
+
+[03-Dec-2024 16:10:44 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting ")" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 21
+[03-Dec-2024 16:10:56 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting ")" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 21
+[03-Dec-2024 16:10:59 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting ")" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 21
+[03-Dec-2024 16:11:01 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting ")" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 21
+[03-Dec-2024 16:11:16 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting ")" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 21
+[03-Dec-2024 16:11:30 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting ")" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 21
+[03-Dec-2024 16:11:35 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting ")" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 21
+[03-Dec-2024 16:11:38 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting ")" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 21
+[03-Dec-2024 16:11:44 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting ")" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 21
+[03-Dec-2024 16:11:52 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting ")" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 21
+[03-Dec-2024 16:12:00 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting ")" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 21
+[03-Dec-2024 16:14:05 UTC] Nonce jest niepoprawny
+[03-Dec-2024 16:14:05 UTC] Otrzymane dane: Array
+(
+    [custom_form_nonce_field] => 3f7b1ee8c1
+    [_wp_http_referer] => /diagnostyka-zadanie/
+    [name] => imie inazwisko
+    [email] => ma@gmail.com
+    [description] => 
+    [nonce] => 3f7b1ee8c1
+)
+
+[03-Dec-2024 16:18:05 UTC] Otrzymane dane: Array
+(
+    [custom_form_nonce_field] => 3f7b1ee8c1
+    [_wp_http_referer] => /diagnostyka-zadanie/
+    [name] => eee
+    [email] => e@gmail.com
+    [description] => dddd
+    [nonce] => 3f7b1ee8c1
+)
+
+[03-Dec-2024 16:19:11 UTC] Otrzymane dane: Array
+(
+    [custom_form_nonce_field] => 3f7b1ee8c1
+    [_wp_http_referer] => /diagnostyka-zadanie/
+    [name] => dddd
+    [email] => dd@gmail.com
+    [description] => saASD AS
+    [nonce] => 3f7b1ee8c1
+)
+
+[03-Dec-2024 17:24:42 UTC] PHP Warning:  Attempt to read property "title" on null in C:\xampp\htdocs\diagnostyka-zadanie\wp-includes\class-wp-customize-widgets.php on line 923
+[03-Dec-2024 17:29:11 UTC] PHP Warning:  Attempt to read property "title" on null in C:\xampp\htdocs\diagnostyka-zadanie\wp-includes\class-wp-customize-widgets.php on line 923
+[03-Dec-2024 18:01:23 UTC] PHP Parse error:  syntax error, unexpected token ")" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 52
+[03-Dec-2024 18:01:44 UTC] PHP Parse error:  syntax error, unexpected token ")" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 52
+[03-Dec-2024 18:24:52 UTC] PHP Parse error:  syntax error, unexpected identifier "process_custom_form_submission" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 90
+[03-Dec-2024 20:29:25 UTC] PHP Parse error:  syntax error, unexpected token "class", expecting "function" or "const" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 47
+[03-Dec-2024 20:29:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\diagnostyka-zadanie\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[03-Dec-2024 20:29:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\diagnostyka-zadanie\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[03-Dec-2024 20:29:27 UTC] PHP Parse error:  syntax error, unexpected token "class", expecting "function" or "const" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 47
+[03-Dec-2024 20:29:35 UTC] PHP Parse error:  syntax error, unexpected token "class", expecting "function" or "const" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 47
+[03-Dec-2024 20:31:36 UTC] PHP Parse error:  syntax error, unexpected token "class", expecting "function" or "const" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 47
+[03-Dec-2024 20:33:37 UTC] PHP Parse error:  syntax error, unexpected token "class", expecting "function" or "const" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 47
+[03-Dec-2024 20:34:47 UTC] PHP Parse error:  syntax error, unexpected token "class", expecting "function" or "const" in C:\xampp\htdocs\diagnostyka-zadanie\wp-content\themes\custom-theme\functions.php on line 47
